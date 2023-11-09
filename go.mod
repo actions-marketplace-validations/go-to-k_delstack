@@ -4,14 +4,14 @@ go 1.18
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
-	github.com/aws/aws-sdk-go-v2 v1.20.3
+	github.com/aws/aws-sdk-go-v2 v1.22.2
 	github.com/aws/aws-sdk-go-v2/config v1.18.0
 	github.com/aws/aws-sdk-go-v2/service/backup v1.24.1
 	github.com/aws/aws-sdk-go-v2/service/cloudformation v1.34.3
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.19.4
 	github.com/aws/aws-sdk-go-v2/service/iam v1.22.3
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.38.3
-	github.com/aws/smithy-go v1.14.2
+	github.com/aws/smithy-go v1.16.0
 	github.com/golang/mock v1.6.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/rs/zerolog v1.30.0
